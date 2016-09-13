@@ -24,7 +24,7 @@ public class SimpleGui3C implements ActionListener {
         frame.getContentPane().add(BorderLayout.SOUTH, button);
         frame.getContentPane().add(BorderLayout.NORTH, button2);
         frame.getContentPane().add(BorderLayout.CENTER, drawPanel1);
-        frame.setSize(400, 400);
+        frame.setSize(250, 250);
         frame.setVisible(true);
     }
 
